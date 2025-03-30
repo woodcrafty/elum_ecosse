@@ -1,0 +1,3 @@
+C- Common block soilnam
+      CHARACTER SNAME*40
+      COMMON/SOILNAM/SNAME(MAXSOIL)

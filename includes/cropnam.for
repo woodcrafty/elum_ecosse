@@ -1,0 +1,3 @@
+C- Common block cropnam
+      CHARACTER CNAME*40
+      COMMON/CROPNAM/CNAME(0:MAXCROP)

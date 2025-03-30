@@ -1,0 +1,1 @@
+      COMMON /H/FIXED(50,MAXSOIL)
