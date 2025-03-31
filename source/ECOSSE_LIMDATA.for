@@ -881,8 +881,8 @@ C
           ! Convert above-ground biomass to total biomass by multiplying by rootshoot
           ! Convert DM to C by multiplying by 0.5
           ! Convert total biomass to plant inputs to soil by multiplying by frac
-          TOTPIC(THISLU) = TOTPIC(THISLU) * rootshoot(thislu) * 0.5 *
-     &                     frac(thislu)
+!          TOTPIC(THISLU) = TOTPIC(THISLU) * rootshoot(thislu) * 0.5 *
+!     &                     frac(thislu)
           ! MLR end
 		PIANN=TOTPIC(THISLU)  
           
